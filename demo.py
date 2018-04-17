@@ -6,3 +6,7 @@ print("hello world4hello world4hello world4")
 print("hello world4hello world4hello world4")
 print("hello world4hello world4hello world4")
 print("hello world4hello world4hello world4")
+
+print("hello 忽略部分文件 world4")
+print("hello world4hello world4hello world4")
+print("hello world4hello world4hello world4")
